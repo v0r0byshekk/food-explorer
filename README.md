@@ -1,6 +1,4 @@
-# food-explorer
-сайт кп кяр
-[index.html](https://github.com/user-attachments/files/24354705/index.html)
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
